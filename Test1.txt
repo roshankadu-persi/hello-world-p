@@ -4,6 +4,9 @@ class MyClass
 {
 
      static void main()
-{
-}
+     {
+          myMethod()
+         {
+	 }
+     }
 }
