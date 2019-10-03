@@ -1,0 +1,9 @@
+Hello world !!
+
+class MyClass
+{
+
+     static void main()
+{
+}
+}
