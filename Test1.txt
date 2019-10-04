@@ -10,9 +10,9 @@ class MyClass
 	 }
      }
 
-my method2
-{
- 
-    }
+        my method2
+      {  
+         syso
+       }
 
 }
