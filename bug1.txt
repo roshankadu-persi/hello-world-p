@@ -1,1 +1,2 @@
-bug1 fix
+bug1 fix,updated 
+bug2 fixed,additional changes
