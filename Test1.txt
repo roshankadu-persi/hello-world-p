@@ -9,4 +9,10 @@ class MyClass
          {
 	 }
      }
+
+my method2
+{
+ 
+    }
+
 }
