@@ -12,7 +12,11 @@ class MyClass
 
         my method2
       {  
-         syso
+         sysout="message"
+       }
+       
+        my method3
+       {
        }
 
 }
